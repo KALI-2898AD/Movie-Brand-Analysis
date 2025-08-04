@@ -29,19 +29,12 @@ Brand,Total,Releases,#1 Release,Lifetime Gross
 Marvel Comics,15806336901,69,Avengers: Endgame,858373000
 ...
 
-sql
-Copy
-Edit
 
 - **`imdb_top_1000.csv`**  
 Contains IMDB top 1000 movies with fields like:
 Series_Title,Released_Year,Genre,IMDB_Rating,No_of_Votes,Gross
 The Shawshank Redemption,1994,Drama,9.3,2343110,28341469
 ...
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -69,10 +62,6 @@ Movie_Brand_Analysis_Project/
 ├── README.md
 └── requirements.txt
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Installation
@@ -80,4 +69,5 @@ Edit
 1. Clone the repository or copy the folder.
 2. Install dependencies:
    ```bash
+
    pip install -r requirements.txt

@@ -1,4 +1,4 @@
-# 🎬 Movie & Brand Analysis Project
+# 🎬 sample of Movie & Brand Analysis
 
 This project analyzes IMDB Top 1000 movies and major movie production brands using **Python, Pandas, Matplotlib, Seaborn, and Machine Learning**.  
 It generates visual insights, performs basic revenue predictions, and exports a **professional PDF report** for academic submission or industry use.
@@ -71,3 +71,4 @@ Movie_Brand_Analysis_Project/
    ```bash
 
    pip install -r requirements.txt
+
